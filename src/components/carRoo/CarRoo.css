@@ -1,0 +1,76 @@
+h1 {
+    font-size: 70px;
+}
+
+.educationTable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bachelors {
+    padding-left: 75px;
+    padding-right: 75px;
+    text-align: left;
+}
+
+.projectsTable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.projectDesc {
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: left;
+}
+
+.contactTable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weirdIcons {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ /* .eduDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+    text-align:left;
+}  */
+
+.educ {
+    margin-bottom: 10%;
+}
+
+.centerOO {
+    margin-bottom: 10%;
+}
+
+.bout {
+    margin-bottom: 10%;
+}
+
+.proj {
+    margin-bottom: 10%;
+}
+
+.contact {
+    margin-bottom: 10%;
+}
+
+.aboutMe {
+    text-align: left;
+}
+
+.gitButton {
+    margin-left: 40%
+}
